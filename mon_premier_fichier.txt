@@ -1,5 +1,3 @@
 Bonjour tout le monde
 Tout va bien ?
 Je l'ai modifié sur github
-
-pour créer un conflit dans une nouvelle branche
